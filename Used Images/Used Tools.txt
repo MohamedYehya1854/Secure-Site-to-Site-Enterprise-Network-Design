@@ -4,3 +4,8 @@ WinSCP Download Link:
 https://winscp.net/eng/download.php
 Project Images:
 https://drive.google.com/drive/folders/1uBHT0N56j-F-mHAWar0CH_zYuExEJGOA?usp=drive_link
+Windows Images:
+https://legacy.labhub.eu.org/0:/addons/qemu/Windows/win-10-x64-21H1v1.tgz
+Zabbix Image:
+https://legacy.labhub.eu.org/0:/addons/qemu/zabbix-3.0/hda.qcow2
+
